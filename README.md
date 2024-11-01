@@ -1,1 +1,2 @@
 # Simple_interface_testing
+向chatgpt提需求，基于pytest结合allure整合的接口自动化测试框架，非常基础版本，准备慢慢完善，一部分向chatgpt提需求，一部分掺合一点我自己的水分
